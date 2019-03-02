@@ -1,1 +1,2 @@
--- 1. crecion de ddl pra objeto HIVE
+-- 1. crecion de ddl pra objeto HIVES
+--2 AUTOR : ARTURO
