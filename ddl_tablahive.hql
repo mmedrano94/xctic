@@ -1,2 +1,3 @@
 -- 1. crecion de ddl pra objeto HIVES
 --2 AUTOR : ARTURO
+--3 FECHA : 02/03/2019
