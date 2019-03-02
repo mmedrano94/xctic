@@ -1,0 +1,1 @@
+-- 1. crecion de ddl pra objeto HIVE
